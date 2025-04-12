@@ -182,7 +182,7 @@ export default function TodoList() {
       onClick={addTask}
       className="bg-sky-600 hover:bg-sky-700 text-white px-5 py-2 rounded-full shadow transition"
     >
-      + Tambah Tugas
+      Tambah Tugas
     </button>
   </div>
 

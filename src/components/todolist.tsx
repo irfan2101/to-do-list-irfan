@@ -136,7 +136,7 @@ export default function TodoList() {
       Swal.fire({
         icon: 'success',
         title: 'Tersimpan!',
-        text: 'Tugas berhasil di edit',
+        text: 'Tugas berhasil di perbarui',
         timer: 1500,
         showConfirmButton: false,
         position: 'top-end',
